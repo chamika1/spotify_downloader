@@ -4,7 +4,7 @@ from spotify_downloader import get_spotify_track_metadata, download_track, downl
 import os
 import requests
 
-TOKEN = "8063527893:AAGuE3QuU-omZTyV9xLreiHpmManaXBeHWU"
+TOKEN = "bot token"
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
