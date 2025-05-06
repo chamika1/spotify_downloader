@@ -1,0 +1,4 @@
+requests==2.31.0
+zstandard==0.22.0
+python-telegram-bot==20.8
+brotli==1.0.9
